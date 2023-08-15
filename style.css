@@ -1,0 +1,24 @@
+.weather-widget {
+    background-color: #eaeaea;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .weather-info {
+    display: flex;
+    align-items: center;
+  }
+  
+  .weather-icon img {
+    width: 50px;
+    height: 50px;
+  }
+  
+  .weather-details {
+    margin-left: 10px;
+  }
+  
+  .weather-details p {
+    margin: 0;
+  }
